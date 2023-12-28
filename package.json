@@ -1,0 +1,13 @@
+{
+  "name": "knight-travails",
+  "version": "1.0.0",
+  "description": "An algorithm that describes the shortest path, for a knight, between two squares on a chessboard.\r This is achieved using a Graph data structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
